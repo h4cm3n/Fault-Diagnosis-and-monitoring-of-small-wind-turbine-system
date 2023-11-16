@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 
 String apiWritekey = "BBFPI64DRCJ4ISKR"; // this is THINGSPEAK WRITEAPI key 
-const char* ssid = "jane";
+const char* ssid = "anbarasu";
 const char* password = "0987654321";
 const char* host = "maker.ifttt.com";
 const char* server = "api.thingspeak.com";
